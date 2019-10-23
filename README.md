@@ -9,3 +9,5 @@ Download zip file Run Below Command to Run Project
 3) npm i react-slick
 
 4) npm i react-router-dom
+
+5) yarn start
